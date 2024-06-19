@@ -1,4 +1,4 @@
-# Covid Analysis Project
+# Bluejays Pitcher Analysis Project
 
 ## Table of Content
 - [Project Overview](#project-overview)
